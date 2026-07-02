@@ -1,0 +1,14 @@
+{
+  "slug": "pr-review",
+  "name": "PR Review",
+  "description": "Review a pull request for correctness, regressions, security issues, and missing tests.",
+  "version": "0.1.0",
+  "author": "happymomo",
+  "category": "development",
+  "tags": [
+    "development",
+    "code-review",
+    "quality"
+  ],
+  "status": "published"
+}

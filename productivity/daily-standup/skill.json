@@ -1,0 +1,14 @@
+{
+  "slug": "daily_standup",
+  "name": "Daily Standup",
+  "description": "Prepare concise daily standup updates from tasks, commits, notes, or chat context.",
+  "version": "0.1.0",
+  "author": "happymomo",
+  "category": "productivity",
+  "tags": [
+    "productivity",
+    "team",
+    "status"
+  ],
+  "status": "published"
+}

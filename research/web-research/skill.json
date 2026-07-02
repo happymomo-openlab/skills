@@ -1,0 +1,14 @@
+{
+  "slug": "web_research",
+  "name": "Web Research",
+  "description": "Research a topic across multiple sources and produce a concise, cited summary.",
+  "version": "0.1.0",
+  "author": "happymomo",
+  "category": "research",
+  "tags": [
+    "research",
+    "synthesis",
+    "web"
+  ],
+  "status": "published"
+}

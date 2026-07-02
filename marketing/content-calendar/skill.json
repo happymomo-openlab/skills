@@ -1,0 +1,14 @@
+{
+  "slug": "content-calendar",
+  "name": "Content Calendar",
+  "description": "Turn product goals and audience notes into a practical weekly content plan.",
+  "version": "0.1.0",
+  "author": "happymomo",
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "content",
+    "planning"
+  ],
+  "status": "published"
+}
