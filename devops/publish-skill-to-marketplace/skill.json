@@ -1,0 +1,10 @@
+{
+  "slug": "publish-skill-to-marketplace",
+  "name": "Publish Skill to Marketplace",
+  "description": "Publish a skill to the public marketplace on happymomo-openlab/skills with the standard README template.",
+  "version": "0.1.0",
+  "author": "Mergio",
+  "category": "devops",
+  "tags": ["skills", "marketplace", "publishing", "template"],
+  "status": "published"
+}
