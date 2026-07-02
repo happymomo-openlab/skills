@@ -38,3 +38,6 @@ Blockers
 - Works best with bullet-style input — paste your day's scratch notes directly
 - If you're in a hurry, just list 3-5 bullets and it handles the structure
 - Mentions teammates by name so your team knows who to follow up with
+## Why Use This Skill
+
+Writing standup updates from scratch every morning is a waste of brain cycles. This skill digests your commits, notes, and chat context into a clean three-part update ready to paste into Slack. It strips noise and never invents progress.

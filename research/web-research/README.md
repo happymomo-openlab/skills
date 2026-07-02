@@ -39,3 +39,6 @@ Ask a research question and specify what you need: a competitor analysis, techni
 - Uncertain or single-source claims are marked as unverified
 - Recent sources are preferred for fast-moving topics
 - Final output is structured for decision-making, not just information gathering
+## Why Use This Skill
+
+Web research without structure produces link dumps, not insights. This skill enforces a methodology — search from multiple angles, cross-check claims, cite every source. The output is built for decision-making, not just information gathering.
