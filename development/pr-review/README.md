@@ -38,3 +38,6 @@ Point it at a branch or PR and ask it to review. It reports only high-confidence
 ## When Not to Use
 
 It won't flag style-only issues unless they hide a real bug. Prefer linting tools for formatting concerns.
+## Why Use This Skill
+
+Manually reviewing every PR for security flaws and edge cases doesn't scale. This skill automates the tedious parts — catching injection risks, missing error handling, and regression-prone patterns — so you only spend your attention on decisions that need human judgment.

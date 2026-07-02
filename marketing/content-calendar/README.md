@@ -33,3 +33,6 @@ Tell it what you're launching, who it's for, and what channels you have (Twitter
 - Be specific about your audience — "React devs at 50-person startups" beats "developers"
 - Mention constraints upfront: tone, language, cadence, regional focus
 - If a channel feels forced, ask it to skip that day rather than forcing filler content
+## Why Use This Skill
+
+Most solo developers and small teams either skip content planning entirely or spend hours debating what to post. This skill turns product goals into a realistic weekly schedule in minutes — with hooks, formats, and CTAs tailored to your channels.
