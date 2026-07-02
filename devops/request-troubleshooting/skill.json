@@ -1,0 +1,10 @@
+{
+  "slug": "request-troubleshooting",
+  "name": "Request Troubleshooting",
+  "description": "Generic API request troubleshooting methodology for HTTP errors, connection issues, and server-side failures with a systematic diagnostic flow.",
+  "version": "0.1.0",
+  "author": "Mergio",
+  "category": "devops",
+  "tags": ["api", "troubleshooting", "debugging", "http"],
+  "status": "published"
+}

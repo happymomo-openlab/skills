@@ -1,0 +1,10 @@
+{
+  "slug": "static-site-publishing",
+  "name": "Static Site Publishing",
+  "description": "Complete workflow for publishing static HTML pages — from writing to public URL. Covers sanitization, diagrams, decisions, and publishing flow.",
+  "version": "0.1.0",
+  "author": "Mergio",
+  "category": "devops",
+  "tags": ["static-site", "html", "publishing", "web"],
+  "status": "published"
+}

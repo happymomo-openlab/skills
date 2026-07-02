@@ -1,0 +1,10 @@
+{
+  "slug": "configure-mcp",
+  "name": "Configure MCP Services",
+  "description": "Standard process for configuring MCP services, connection diagnostics, headers, auth, transport setup, and injection trade-offs.",
+  "version": "0.1.0",
+  "author": "Mergio",
+  "category": "mcp",
+  "tags": ["mcp", "configuration", "mcporter", "tools"],
+  "status": "published"
+}

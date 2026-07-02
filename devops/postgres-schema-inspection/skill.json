@@ -1,0 +1,10 @@
+{
+  "slug": "postgres-schema-inspection",
+  "name": "PostgreSQL Schema Inspection",
+  "description": "Inspect PostgreSQL database schemas — list tables, columns, types, defaults, and row counts. Handles read-only users with restricted schema permissions.",
+  "version": "0.1.0",
+  "author": "Mergio",
+  "category": "devops",
+  "tags": ["postgres", "schema", "inspection", "database"],
+  "status": "published"
+}
