@@ -15,3 +15,7 @@ Tell your agent which MCP service you want to connect (e.g., "connect me to the 
 ## When Not to Use
 
 If you only need a single simple tool, use a direct API call instead of the full MCP stack.
+
+## Why
+
+MCP servers vary wildly in tool count and schema complexity. Connecting the wrong way means either blowing your context window or having tools unavailable. This skill picks the right path for each service.

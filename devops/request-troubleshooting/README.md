@@ -15,3 +15,7 @@ Share a `request_id`, `user_id`, or the user's email with your agent and ask it 
 
 - For performance optimization or capacity planning — use profiling tools
 - If the failure is reproducible in your local environment — debug directly instead
+
+## Why
+
+Debugging API failures without a methodology means guessing. This skill enforces a systematic approach — check the obvious causes first, then drill down. You get a root cause faster and a ready-to-use explanation for the affected user.

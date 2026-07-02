@@ -16,3 +16,7 @@ Share your database credentials with your agent and ask it to "inspect the schem
 
 - For schema modifications, use a migration tool
 - For performance profiling, use `pg_stat_statements` or an APM
+
+## Why
+
+Most database inspection tools assume full `information_schema` access. Real production setups often give you a restricted read-only user. This skill uses `pg_catalog` directly, which always works as long as you can connect.

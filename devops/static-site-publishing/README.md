@@ -14,3 +14,7 @@ Just ask your agent to create a report or HTML page. It automatically handles pu
 ## When Not to Use
 
 For public SEO/blog pages on the main site, use a dedicated SSG workflow instead — this skill is for private reporting pages.
+
+## Why
+
+Without this skill, agents write HTML to random directories, break theme consistency, or serve pages with exposed internal data. This workflow makes publishing reliable and safe.
